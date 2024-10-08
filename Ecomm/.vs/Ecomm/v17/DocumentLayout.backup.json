@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# training\\case study\\Ecomm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590B125F-8507-42EA-A28B-509FE5F92F9E}|Ecommerce\\Ecommerce.csproj|d:\\c# training\\case study\\ecomm\\ecommerce\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590B125F-8507-42EA-A28B-509FE5F92F9E}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0260BB85-8049-4D27-9014-0268C5229B39}|EComm.Tests\\EComm.Tests.csproj|d:\\c# training\\case study\\ecomm\\ecomm.tests\\apptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0260BB85-8049-4D27-9014-0268C5229B39}|EComm.Tests\\EComm.Tests.csproj|solutionrelative:ecomm.tests\\apptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 201,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "D:\\c# training\\case study\\Ecomm\\Ecommerce\\Main\\MainModule.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Main\\MainModule.cs",
+              "ToolTip": "D:\\c# training\\case study\\Ecomm\\Ecommerce\\Main\\MainModule.cs",
+              "RelativeToolTip": "Ecommerce\\Main\\MainModule.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:24:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apptests.cs",
+              "DocumentMoniker": "D:\\c# training\\case study\\Ecomm\\EComm.Tests\\Apptests.cs",
+              "RelativeDocumentMoniker": "EComm.Tests\\Apptests.cs",
+              "ToolTip": "D:\\c# training\\case study\\Ecomm\\EComm.Tests\\Apptests.cs",
+              "RelativeToolTip": "EComm.Tests\\Apptests.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:22:57.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
